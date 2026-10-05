@@ -1,8 +1,0 @@
-# Flood Ready Vehicle System — no third-party packages required.
-#
-#   python main.py
-#
-# Tkinter ships with the standard Python installers on Windows and macOS.
-# On Debian/Ubuntu only, install the Tk bindings first:
-#
-#   sudo apt install python3-tk
